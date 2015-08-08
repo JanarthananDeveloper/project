@@ -20,6 +20,7 @@ public class Multiplication {
         Multiplication m = new Multiplication();
         m.mul();
         System.out.println("the no is founded here ");
+System.out.println("Praveen modified this project ");
         
     }
     
